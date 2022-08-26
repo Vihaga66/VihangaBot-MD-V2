@@ -18,9 +18,9 @@ global.APIKeys = {
 
 //settings
 global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
-global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
-global.inboxblock212 = 'false'
-global.onlygroup = 'false'
+global.callblock = 'true' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
+global.inboxblock212 = 'true'
+global.onlygroup = 'true'
 global.group1 = 'https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf' //මෙතන grouplink එක.
 
 //Owner React
