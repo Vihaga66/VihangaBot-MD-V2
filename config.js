@@ -21,7 +21,7 @@ global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ
 global.callblock = 'true' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 global.inboxblock212 = 'true'
 global.onlygroup = 'true'
-
+global.group1 = '🤭' //මෙතන grouplink එක.you
 
 //Owner React
 global.OWNER_REACT = '🤭' //මෙතනට emoji එකක දාන්න.
@@ -29,7 +29,7 @@ global.REACT_NUMBER = 'hi 🤭' //මෙතන number එක.
 
 // Other
 global.owner = ['Hi 🤭',''] //මෙතන number එක.
-global.premium = ['Hi 🤭','9476342733'] //මෙතන number එක.
+global.premium = ['Hi 🤭',''] //මෙතන number එක.
 global.botname = 'VIHANGA BOT' //මෙතන නම.
 global.ownername = 'Vihanga BOT' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ SITHUM' //මෙතන නම.
