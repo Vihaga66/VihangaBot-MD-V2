@@ -21,7 +21,7 @@ global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ
 global.callblock = 'true' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 global.inboxblock212 = 'true'
 global.onlygroup = 'true'
-global.💛👉YouTube_SUBSCRIB👈💛1 = 'https://youtube.com/channel/UC3ZwkFVKgeCY9BEA-cdutwA' //මෙතන grouplink එක.
+global.group1 = 'https://youtube.com/channel/UC3ZwkFVKgeCY9BEA-cdutwA' //මෙතන grouplink එක.
 
 //Owner React
 global.OWNER_REACT = '🤭' //මෙතනට emoji එකක දාන්න.
