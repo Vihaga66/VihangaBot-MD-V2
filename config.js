@@ -21,23 +21,23 @@ global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ
 global.callblock = 'true' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 global.inboxblock212 = 'true'
 global.onlygroup = 'true'
-global.💛👉YouTube_SUBSCRIB👈💛1 = 'https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf' //මෙතන grouplink එක.
+global.💛👉YouTube_SUBSCRIB👈💛1 = 'https://youtube.com/channel/UC3ZwkFVKgeCY9BEA-cdutwA' //මෙතන grouplink එක.
 
 //Owner React
-global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.OWNER_REACT = '🤭' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = 'hi 🤭' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
+global.owner = ['Hi 🤭',''] //මෙතන number එක.
+global.premium = ['Hi 🤭','9476342733'] //මෙතන number එක.
+global.botname = 'VIHANGA BOT' //මෙතන නම.
+global.ownername = 'Vihanga BOT' //මෙතන නම.
+global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ SITHUM' //මෙතන නම.
 global.group2 = 'https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
-global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.packname = 'VIHANGA BOT' //මෙතන නම.
+global.cap = '*By ᴠɪʜᴀɢᴀ 𝙱𝙾𝚃*' //මෙතන නම.
+global.img = 'https://i.ibb.co/0fg52p7/20220715-162421.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.ytchannel = 'https://youtube.com/channel/UC3ZwkFVKgeCY9BEA-cdutwA' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
@@ -58,23 +58,23 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = 'VIHANGA BOT' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
 global.sp = '⭔' //මෙතන emoji එකක්.
 global.mess = {
     success: '*හරි*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
+        ban: '*සමාවන්න, ඔබ තහනම් කර ඇති බව පෙනේ😔😔 ටයිප් කරන්න . හිමිකරු තහනම ඉවත් කිරීමට ඉල්ලීමට හරි*',
+    horny: '*nsfw අක්‍රිය කර ඇත කරුණාකර එය සක්‍රීය කරන ලෙස හිමිකරුගෙන් විමසන්න*',
+    admin: '*මෙම cmd පරිපාලක සඳහා පමණි, මට ඔබව දැනෙන නමුත් කණගාටුයි*',
+    botAdmin: '*නිසි ගෞරවයෙන් ඔබට කරුණාකර bot පරිපාලනය ලබා දිය හැකිද?*',
+    owner: '*මෙම විධානය බෝට්ටු හිමිකරු සඳහා පමණි, මට ඔබව දැනෙන නමුත් කණගාටුයි*',
+    group: '*මෙම විශේෂාංගය කණ්ඩායම් සඳහා පමණි okay*',
+    private: '*මෙම විශේෂාංගය භාවිතා කළ හැක්කේ dm okay හි පමණි*',
+    bot: '*පරිශීලක බොට් අංකය සඳහා විශේෂ විශේෂාංග හරි*',
     wait: '*ටිකක් ඉන්න ⏳*',
-    endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
+    endLimit: '*Brothers Daily Limit කල් ඉකුත් වී ඇත, .buy සීමාව මිලදී ගැනීමේ සීමාව ටයිප් කරන්න, සටහන: සීමාව සෑම පැය 12 කට වරක් නැවත සකසනු ලැබේ*',
 }
 global.limitawal = {
     premium: "Infinity",
