@@ -19,7 +19,7 @@ global.APIKeys = {
 //settings
 global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
 global.callblock = 'true' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
-global.inboxblock = 'true'
+global.inboxblock212 = 'true'
 global.onlygroup = 'true'
 global.group1 = '🤭' //මෙතන grouplink එක.you
 
